@@ -1,0 +1,12 @@
+
+MODEL_FILE_NAME = "model.cp"
+META_DATA_FILE_NAME = "meta.json"
+
+META_DATA_KEY_DATA_END_DATE = "end_date"
+META_DATA_KEY_DATA_TRAIN_DATA_SET = "train_data"
+
+TEST_COLUMN_KEY_DATE = "date"
+TEST_COLUMN_KEY_PREDICTED = "predicted"
+TEST_COLUMN_KEY_EXPECTED = "expected"
+
+DEFAULT_DATETIME_FORMAT = "%m/%d/%Y"
